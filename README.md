@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=matheushenriqueferreira&theme=dark&locale=pt_BR" />  
+   <img src="https://streak-stats.demolab.com?user=matheushenriqueferreira&theme=dark&locale=pt_BR&mode=weekly" />  
 </div>
 
 <hr>
